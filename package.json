@@ -1,0 +1,23 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NKNaaS/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NKNaaS/zenn-content/issues"
+  },
+  "homepage": "https://github.com/NKNaaS/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1"
+  }
+}
